@@ -29,7 +29,7 @@ Display.prototype.add = function (book) {
 //Implement the clear function
 Display.prototype.clear = function () {
     let LibraryForm = document.getElementById('LibraryForm');
-    LibraryForm.reset();
+   
 }
 
 //Implement the validate function
